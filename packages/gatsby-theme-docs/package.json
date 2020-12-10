@@ -53,7 +53,7 @@
     "gatsby-plugin-sharp": "2.10.1",
     "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.18",
     "gatsby-remark-copy-linked-files": "2.6.0",
-    "gatsby-remark-images": "3.7.0",
+    "gatsby-remark-images": "3.7.1",
     "gatsby-remark-relative-images": "0.2.3",
     "gatsby-source-filesystem": "2.7.0",
     "gatsby-transformer-sharp": "2.8.0",
@@ -80,8 +80,8 @@
     "unist-util-filter": "2.0.3"
   },
   "devDependencies": {
-    "gatsby": "2.28.1",
-    "gatsby-cli": "2.15.0",
+    "gatsby": "2.28.2",
+    "gatsby-cli": "2.15.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
